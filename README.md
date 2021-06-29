@@ -9,7 +9,7 @@ O jogo foi desenvolvido em C++ para a disciplina de AEDS 1 da universidade PUC M
 * Para rodar o jogo somente é necessário compilar o arquivo main.ccp junto com os outros arquivos.
 * 
 <!-- ABOUT THE PROJECT -->
-## About the Project(English)
+## About the Project
 
 The Project is a RPG turn-based game, made for 2 players where they battle each other.  
 The game was developed in C++ for the discipline AEDS1 from the university PUC Minas, in request from professor Henrique Batista da Silva.
