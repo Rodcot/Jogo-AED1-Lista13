@@ -7,7 +7,7 @@ O jogo foi desenvolvido em C++ para a disciplina de AEDS 1 da universidade PUC M
 
 * Caso queira entender mais sobre o jogo baixe e abra o arquivo Exercícios 13.pdf para ler sobre as especificações do projeto.
 * Para rodar o jogo somente é necessário compilar o arquivo main.ccp junto com os outros arquivos.
-* 
+
 <!-- ABOUT THE PROJECT -->
 ## About the Project
 
